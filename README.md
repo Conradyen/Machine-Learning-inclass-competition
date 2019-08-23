@@ -15,6 +15,6 @@ The following approach is the approach I did buring the competition. Random fora
 
 ### New approach
 
-While I was looking trough my old code I found this old project which is the first machine learning project I have ever done. It woud be intersting to see what kind of approach will I do after learning a lot more so the redo.ipynb is what I did for and afternoon. Somehow achive better result with less complicate model with out of fold ensemble.
+While I was looking trough my old code I found this old project which is the first machine learning project I have ever done. It woud be intersting to see what kind of approach will I do after learning a lot more so the ipython notebook is what I did for and afternoon. Somehow achive better result with less complicate model with out of fold ensemble.
 
 ![](images/redopipline.png)
