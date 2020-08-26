@@ -1,4 +1,4 @@
-# Machine-Learning-inclass-competition
+# Motion dection
 
 ### Overview
 
