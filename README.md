@@ -1,4 +1,4 @@
-# Motion dection
+# Motion detection
 
 ### Overview
 
